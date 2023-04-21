@@ -4,10 +4,11 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  height: 100vh;
   background-color: black;
 }
 .img-size {
-  background-size: cover;
+  width: 800px;
 }
 .speed-heading {
   color: #ffffff;
@@ -27,8 +28,8 @@
 .text {
   color: #cbd5e1;
   font-family: 'Roboto';
-  margin-top: 35px;
-  margin-bottom: 35px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 .button1 {
   background-color: #0b69ff;
