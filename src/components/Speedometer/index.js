@@ -3,7 +3,7 @@ import {Component} from 'react'
 import './index.css'
 
 class Speedometer extends Component {
-  state = {speed: 10}
+  state = {speed: 0}
 
   onIncrement = () => {
     const {speed} = this.state
